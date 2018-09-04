@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string name="textview">TextView</string>
+    <string-array name="android_version">
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+    </string-array>
 </resources>
